@@ -13,6 +13,8 @@ author: "Amine El Houjjaji"
 
 _Estimated reading time: 15-17 minutes_
 
+![the java journey](./assets/images/java-journey.drawio.svg)
+
 ## Introduction
 
 Java is everywhere—from the apps on your phone to servers powering the internet, and even in space missions. Originally developed in the early 1990s for interactive television, Java has evolved into one of the most reliable and versatile programming languages.
@@ -29,7 +31,7 @@ In this article, we’ll take a walk through Java’s fascinating journey—from
 
 ### 1991: The Green Team, Green project and Project Oak
 
-Java began as a project (Greeb project) in 1991 at Sun Microsystems by a team of researchers called `The Green Team` to create a new language for the set-top box project (interactive television):
+Java began as a project (Green project) in 1991 at Sun Microsystems by a team of researchers called `The Green Team` to create a new language for the set-top box project (interactive television):
 - James Gosling (leader) ([https://www.linkedin.com/in/jamesgosling](https://www.linkedin.com/in/jamesgosling))
 - Mike Sheridan (member)
 - Patrick Naughton (member)
