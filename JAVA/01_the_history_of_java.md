@@ -2,7 +2,7 @@
 title: "The History of Java"
 description: "Explore how Java evolved from TVs to interplanetary missions."
 date: 2025-04-21
-lastmod: 2025-04-22
+lastmod: 2025-04-28
 tags: ["java", "history", "opensource"]
 author: "Amine El Houjjaji"
 ---
